@@ -35,31 +35,53 @@ Research Projects
 </p> 
 
   
-Optical Skills
+  
+System Test & Validation
 ======
-* Optical cavity design, simulation and alignment
+* System-level validation, calibration, and performance characterization of complex electro-optical systems
 
-* Laser stabilisation and frequency noise suppression
+* Automated test and calibration infrastructure development (R&D and production)
 
-* Frequency comb operation
+* Failure analysis, root-cause debugging, and cross-domain issue resolution (hardware, firmware, optics)
 
-* Optical fibre handling and sensing
+* Production test strategy, yield improvement, and reliability validation
 
-* Analog circuit design, simulation and prototyping
-
-* PID control system design and analysis  
+* Definition of validation methodologies, metrics, and test coverage
 
 
-Electronic Skills
+Embedded & FPGA Systems
 ======
-* Test design with embedded processor (FPGA, SoC, DDR, I2C/SPI, QSPI, eMMC, Ethernet MAC, SFP, WiFi, USB, SATA, JESD etc.); 
+* FPGA/SoC (MPSoC) system bring-up, validation, and hardware/software integration
 
-* Analog system design and testing (ADC, DAC, trigger, etc.)
+* High-speed interfaces: DDR, Ethernet, USB, SPI/I2C, JTAG, eMMC, SATA
 
-* Electronic circuit design and simulation; 
+* Real-time data acquisition and embedded system debugging
 
-* Testing station fixtures design and prototype; 
+* Bare-metal and low-level test development for hardware verification
 
-* Electronic devices handling (oscilloscope, spectrum analyser, probes, etc.);
 
-* Class 1 system and SiPM calibration
+Electrical & Mixed-Signal Systems
+======
+* Mixed-signal system design and validation (ADC/DAC, signal integrity)
+
+* High-speed data acquisition and timing analysis
+
+* Power integrity, noise analysis, and low-noise system design
+
+* Hardware debugging and system performance optimization
+
+
+
+Optical & Photonics Systems
+======
+* Laser systems, interferometry, and optical cavity design and alignment
+
+* Cavity-enhanced spectroscopy and quantum-noise-limited sensing
+
+* Precision optical alignment and polarization optics
+
+* Photodetector characterization (SiPM) and low-noise optical measurement
+
+* Optical system calibration, characterization, and laser safety (Class 1 compliance)
+
+
