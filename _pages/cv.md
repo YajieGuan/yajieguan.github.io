@@ -22,7 +22,10 @@ Education
 
 Work Experience
 ======
-* May 2023 - Present: Staff Test Engineer
+* April 2025 - Present: Senior Staff Test Engineer
+  * [Micro Vision](https://microvision.com/)
+
+* May 2023 - 2025: Staff Test Engineer
   * [Micro Vision](https://microvision.com/)
 
 * March 2019 - May 2023: Test and QA Engineer
